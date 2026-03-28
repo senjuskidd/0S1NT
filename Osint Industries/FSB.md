@@ -28,7 +28,9 @@ Gender: Female
 
 ## Foot Printing
 Name Search We [Find](https://nationalsecuritynews.com/2022/06/ukraine-intelligence-publishes-names-of-620-russian-agents/) Her Date of Birth as 11/12/1968
-![Image](images/Pasted image 20260328135034.png)
+
+![](images/Pasted image 20260328135034.png)
+
 # FSB Part 2.
 ```
 ## Context
@@ -63,7 +65,8 @@ Seems like applications go through the [Public Service Portal](https://www.gosus
 
 Found This Telegram Bot @leaks_db_search_bot where you can search with email and find leaked info 
 SNILS: 03262656135
-![[Pasted image 20260328142826.png]]
+
+![](images/Pasted image 20260328142826.png)
 
 # FSB Part 3.
 ```
@@ -98,6 +101,9 @@ OSINT{VK_ID}
 
 Well we have the phone number we are going to use the bot from step 2 again but using the phone number this time.
 
-![[Pasted image 20260328162552.png]]Try every single one and the highlighted one works
-![[Pasted image 20260328162724.png]]
+![](images/Pasted image 20260328162552.png)
+
+Try every single one and the highlighted one works
+
+![](images/Pasted image 20260328162724.png)
 
