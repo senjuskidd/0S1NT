@@ -28,7 +28,7 @@ Gender: Female
 
 ## Foot Printing
 Name Search We [Find](https://nationalsecuritynews.com/2022/06/ukraine-intelligence-publishes-names-of-620-russian-agents/) Her Date of Birth as 11/12/1968
-![[Pasted image 20260328135034.png]]
+![Image](images/Pasted image 20260328135034.png)
 # FSB Part 2.
 ```
 ## Context
