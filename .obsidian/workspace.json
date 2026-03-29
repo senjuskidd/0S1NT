@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "c3a01a0a5ca1b3a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Osint Industries/Find The Masked Man.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Find The Masked Man"
+            }
+          },
+          {
+            "id": "34a4aee3ac54fdf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Osint Industries/Depix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Depix"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,15 +226,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "e30f5c1556cc8fd9",
+  "active": "34a4aee3ac54fdf3",
   "lastOpenFiles": [
+    "Osint Industries/images/DEPIX.png",
+    "Osint Industries/Find The Masked Man.md",
+    "Osint Industries/Depix.md",
+    "Osint Industries/images/masked.png",
+    "Osint Industries/images/second.png",
+    "Osint Industries/images/first.png",
+    "README.md",
     "Osint Industries/FSB.md",
     "images",
     "images/Pasted image 20260328162724.png",
     "images/Pasted image 20260328162552.png",
     "images/Pasted image 20260328142826.png",
     "images/Pasted image 20260328135034.png",
-    "README.md",
     "Osint Industries"
   ]
 }
