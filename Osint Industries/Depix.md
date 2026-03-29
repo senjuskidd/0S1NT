@@ -30,4 +30,4 @@ Seat:3D
 Airport:Shanghai Pudong International Airport 
 IATA:PVG
 
-![depix](IMAGES/DEPIX.png)
+![depix](images/depix.png)
