@@ -25,9 +25,9 @@ OSINT{JOHN_DOE_14A_JFK}
 ## Solve
 An image search on https://tineye.com gave you everything you need .
 
-Name:Michael Chen
-Seat:3D
-Airport:Shanghai Pudong International Airport 
-IATA:PVG
+Name:Michael Chen 
+Seat:3D 
+Airport:Shanghai Pudong International Airport  
+IATA:PVG 
 
 ![depix](images/depix.png)
